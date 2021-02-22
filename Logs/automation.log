@@ -1,0 +1,40 @@
+2021-02-21 12:43:58,436  INFO [main] nopCommerce:26 - **** Launching browser ****
+2021-02-21 12:43:58,461  INFO [main] nopCommerce:32 - **** Opening URL ****
+2021-02-21 12:43:59,041  INFO [main] nopCommerce:39 - **** Setting user email and password ****
+2021-02-21 12:43:59,212  INFO [main] nopCommerce:46 - **** User clicks Login button ****
+2021-02-21 12:44:11,401  INFO [main] nopCommerce:108 - **** User adding new customer ****
+2021-02-21 12:44:15,080  INFO [main] nopCommerce:125 - **** Saving customer data ****
+2021-02-21 12:44:16,648  INFO [main] nopCommerce:73 - **** Closing browser ****
+2021-02-21 12:44:17,603  INFO [main] nopCommerce:26 - **** Launching browser ****
+2021-02-21 12:44:17,606  INFO [main] nopCommerce:32 - **** Opening URL ****
+2021-02-21 12:44:18,428  INFO [main] nopCommerce:39 - **** Setting user email and password ****
+2021-02-21 12:44:18,601  INFO [main] nopCommerce:46 - **** User clicks Login button ****
+2021-02-21 12:44:27,163  INFO [main] nopCommerce:140 - **** User searching for customer by email ****
+2021-02-21 12:44:30,397  INFO [main] nopCommerce:73 - **** Closing browser ****
+2021-02-21 12:44:31,291  INFO [main] nopCommerce:26 - **** Launching browser ****
+2021-02-21 12:44:31,295  INFO [main] nopCommerce:32 - **** Opening URL ****
+2021-02-21 12:44:31,902  INFO [main] nopCommerce:39 - **** Setting user email and password ****
+2021-02-21 12:44:32,064  INFO [main] nopCommerce:46 - **** User clicks Login button ****
+2021-02-21 12:44:44,359  INFO [main] nopCommerce:174 - **** User searching for customer by name ****
+2021-02-21 12:44:44,398  INFO [main] nopCommerce:73 - **** Closing browser ****
+2021-02-21 12:44:45,299  INFO [main] nopCommerce:26 - **** Launching browser ****
+2021-02-21 12:44:45,300  INFO [main] nopCommerce:32 - **** Opening URL ****
+2021-02-21 12:44:46,199  INFO [main] nopCommerce:39 - **** Setting user email and password ****
+2021-02-21 12:44:46,366  INFO [main] nopCommerce:46 - **** User clicks Login button ****
+2021-02-21 12:44:51,105  INFO [main] nopCommerce:58 - **** Loging passed ****
+2021-02-21 12:44:54,112  INFO [main] nopCommerce:66 - **** User clicks on logout link ****
+2021-02-21 12:44:58,159  INFO [main] nopCommerce:58 - **** Loging passed ****
+2021-02-21 12:45:01,164  INFO [main] nopCommerce:73 - **** Closing browser ****
+2021-02-21 12:45:02,054  INFO [main] nopCommerce:26 - **** Launching browser ****
+2021-02-21 12:45:02,056  INFO [main] nopCommerce:32 - **** Opening URL ****
+2021-02-21 12:45:02,565  INFO [main] nopCommerce:39 - **** Setting user email and password ****
+2021-02-21 12:45:02,732  INFO [main] nopCommerce:46 - **** User clicks Login button ****
+2021-02-21 12:45:07,134  INFO [main] nopCommerce:58 - **** Loging passed ****
+2021-02-21 12:45:10,144  INFO [main] nopCommerce:66 - **** User clicks on logout link ****
+2021-02-21 12:45:13,797  INFO [main] nopCommerce:58 - **** Loging passed ****
+2021-02-21 12:45:16,805  INFO [main] nopCommerce:73 - **** Closing browser ****
+2021-02-21 12:45:17,699  INFO [main] nopCommerce:26 - **** Launching browser ****
+2021-02-21 12:45:17,700  INFO [main] nopCommerce:32 - **** Opening URL ****
+2021-02-21 12:45:18,316  INFO [main] nopCommerce:39 - **** Setting user email and password ****
+2021-02-21 12:45:18,485  INFO [main] nopCommerce:46 - **** User clicks Login button ****
+2021-02-21 12:45:22,056  INFO [main] nopCommerce:55 - **** Loging failed ****
