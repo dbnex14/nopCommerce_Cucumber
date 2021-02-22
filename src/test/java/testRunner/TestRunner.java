@@ -13,8 +13,8 @@ import cucumber.api.junit.Cucumber;
 		dryRun=false,
 		monochrome=true,
 		plugin= {"pretty", "html:test-output"},
-		tags = {"@dino"}
-		//tags = {"@sanity, @regression"}  //OR
+		//tags = {"@dino"}
+		tags = {"@sanity, @regression"}  //OR
 		//tags = {"@sanity", "@regression"}  //AND
 )
 public class TestRunner {

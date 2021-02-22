@@ -82,6 +82,13 @@ public class Steps extends BaseClass {
 		loginPage.setEmail(email);
 		loginPage.setPassword(password);
 	}
+	
+	@When("Benutzer gibt die email addresse {string} und passwort {string}")
+	public void benutzer_gibt_die_email_addresse_und_passwort(String email, String password) {
+		logger.info("**** Setting user email and password ****");
+		loginPage.setEmail(email);
+		loginPage.setPassword(password);
+	}
 
 	@When("User clicks on Login button")
 	public void user_clicks_on_Login_button() throws InterruptedException {

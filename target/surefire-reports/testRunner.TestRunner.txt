@@ -1,4 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: testRunner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.079 s - in testRunner.TestRunner
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 78.514 s <<< FAILURE! - in testRunner.TestRunner
+Login - Data Driven(Login)  Time elapsed: 5.257 s  <<< FAILURE!
+java.lang.AssertionError
+

@@ -430,3 +430,32 @@
 2021-02-21 18:42:23,418 - nopcommerce - INFO - **** User clicks Login button ****
 2021-02-21 18:42:38,441 - nopcommerce - INFO - **** User searching for customer by name ****
 2021-02-21 18:42:38,488 - nopcommerce - INFO - **** Closing browser ****
+2021-02-21 19:02:09,786 - nopcommerce - INFO - **** Opening URL ****
+2021-02-21 19:02:10,496 - nopcommerce - INFO - **** Setting user email and password ****
+2021-02-21 19:02:10,721 - nopcommerce - INFO - **** User clicks Login button ****
+2021-02-21 19:02:23,456 - nopcommerce - INFO - **** User adding new customer ****
+2021-02-21 19:02:27,454 - nopcommerce - INFO - **** Saving customer data ****
+2021-02-21 19:02:28,808 - nopcommerce - INFO - **** Closing browser ****
+2021-02-21 19:02:30,083 - nopcommerce - INFO - **** Opening URL ****
+2021-02-21 19:02:30,576 - nopcommerce - INFO - **** Setting user email and password ****
+2021-02-21 19:02:30,803 - nopcommerce - INFO - **** User clicks Login button ****
+2021-02-21 19:02:42,987 - nopcommerce - INFO - **** User searching for customer by email ****
+2021-02-21 19:02:46,409 - nopcommerce - INFO - **** Closing browser ****
+2021-02-21 19:02:47,503 - nopcommerce - INFO - **** Opening URL ****
+2021-02-21 19:02:47,961 - nopcommerce - INFO - **** Setting user email and password ****
+2021-02-21 19:02:48,192 - nopcommerce - INFO - **** User clicks Login button ****
+2021-02-21 19:02:53,507 - nopcommerce - INFO - **** Loging passed ****
+2021-02-21 19:02:56,588 - nopcommerce - INFO - **** User clicks on logout link ****
+2021-02-21 19:03:01,032 - nopcommerce - INFO - **** Loging passed ****
+2021-02-21 19:03:04,108 - nopcommerce - INFO - **** Closing browser ****
+2021-02-21 19:03:05,171 - nopcommerce - INFO - **** Opening URL ****
+2021-02-21 19:03:05,686 - nopcommerce - INFO - **** Setting user email and password ****
+2021-02-21 19:03:05,899 - nopcommerce - INFO - **** User clicks Login button ****
+2021-02-21 19:03:10,860 - nopcommerce - INFO - **** Loging passed ****
+2021-02-21 19:03:13,936 - nopcommerce - INFO - **** User clicks on logout link ****
+2021-02-21 19:03:17,691 - nopcommerce - INFO - **** Loging passed ****
+2021-02-21 19:03:20,770 - nopcommerce - INFO - **** Closing browser ****
+2021-02-21 19:03:21,820 - nopcommerce - INFO - **** Opening URL ****
+2021-02-21 19:03:22,334 - nopcommerce - INFO - **** Setting user email and password ****
+2021-02-21 19:03:22,556 - nopcommerce - INFO - **** User clicks Login button ****
+2021-02-21 19:03:26,113 - nopcommerce - INFO - **** Loging failed ****

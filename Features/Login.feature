@@ -5,7 +5,7 @@ Feature: Login
 Scenario: Successful login
 	Given Benutzer started browser
 	When User opens Url "https://admin-demo.nopcommerce.com/login"
-	And User enters email as "admin@yourstore.com" and password "admin"
+	And Benutzer gibt die email addresse "admin@yourstore.com" und passwort "admin"
 	And User clicks on Login button
 	Then Page title should be "Dashboard / nopCommerce administration"
 	When User clicks on log out link

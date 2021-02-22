@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="testRunner.TestRunner" time="18.079" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="testRunner.TestRunner" time="78.514" tests="5" errors="0" skipped="0" failures="1">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CA"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/dinob/Desktop/java-learning/selenium-cucumber-eclipse/nopCommerce_Cucumber/target/surefire/surefirebooter10478287315572318603.jar /Users/dinob/Desktop/java-learning/selenium-cucumber-eclipse/nopCommerce_Cucumber/target/surefire 2021-02-21T18-42-20_085-jvmRun1 surefire4218489269819321961tmp surefire_013749761483853439895tmp"/>
+    <property name="sun.java.command" value="/Users/dinob/Desktop/java-learning/selenium-cucumber-eclipse/nopCommerce_Cucumber/target/surefire/surefirebooter18168469377066190789.jar /Users/dinob/Desktop/java-learning/selenium-cucumber-eclipse/nopCommerce_Cucumber/target/surefire 2021-02-21T19-02-07_084-jvmRun1 surefire7780704785215439561tmp surefire_05831740935048830128tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/dinob/Desktop/java-learning/selenium-cucumber-eclipse/nopCommerce_Cucumber/target/test-classes:/Users/dinob/Desktop/java-learning/selenium-cucumber-eclipse/nopCommerce_Cucumber/target/classes:/Users/dinob/.m2/repository/io/cucumber/cucumber-core/4.4.0/cucumber-core-4.4.0.jar:/Users/dinob/.m2/repository/io/cucumber/tag-expressions/1.1.1/tag-expressions-1.1.1.jar:/Users/dinob/.m2/repository/io/cucumber/cucumber-expressions/7.0.2/cucumber-expressions-7.0.2.jar:/Users/dinob/.m2/repository/io/cucumber/datatable/1.1.14/datatable-1.1.14.jar:/Users/dinob/.m2/repository/io/cucumber/datatable-dependencies/1.1.14/datatable-dependencies-1.1.14.jar:/Users/dinob/.m2/repository/io/cucumber/cucumber-html/0.2.7/cucumber-html-0.2.7.jar:/Users/dinob/.m2/repository/net/sourceforge/cobertura/cobertura/2.1.1/cobertura-2.1.1.jar:/Users/dinob/.m2/repository/org/ow2/asm/asm/5.0.1/asm-5.0.1.jar:/Users/dinob/.m2/repository/org/ow2/asm/asm-tree/5.0.1/asm-tree-5.0.1.jar:/Users/dinob/.m2/repository/org/ow2/asm/asm-commons/5.0.1/asm-commons-5.0.1.jar:/Users/dinob/.m2/repository/org/ow2/asm/asm-util/5.0.1/asm-util-5.0.1.jar:/Users/dinob/.m2/repository/org/ow2/asm/asm-analysis/5.0.1/asm-analysis-5.0.1.jar:/Users/dinob/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar:/Users/dinob/.m2/repository/jaxen/jaxen/1.1.4/jaxen-1.1.4.jar:/Users/dinob/.m2/repository/org/apache/ant/ant/1.8.3/ant-1.8.3.jar:/Users/dinob/.m2/repository/org/apache/ant/ant-launcher/1.8.3/ant-launcher-1.8.3.jar:/Users/dinob/.m2/repository/org/apache/ant/ant-junit/1.8.3/ant-junit-1.8.3.jar:/Users/dinob/.m2/repository/org/mortbay/jetty/servlet-api-2.5/6.1.14/servlet-api-2.5-6.1.14.jar:/Users/dinob/.m2/repository/org/mortbay/jetty/jetty/6.1.14/jetty-6.1.14.jar:/Users/dinob/.m2/repository/org/mortbay/jetty/jetty-util/6.1.14/jetty-util-6.1.14.jar:/Users/dinob/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/Users/dinob/.m2/repository/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13.jar:/Users/dinob/.m2/repository/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13.jar:/Users/dinob/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar:/Users/dinob/.m2/repository/io/cucumber/cucumber-java/4.4.0/cucumber-java-4.4.0.jar:/Users/dinob/.m2/repository/io/cucumber/cucumber-junit/4.4.0/cucumber-junit-4.4.0.jar:/Users/dinob/.m2/repository/io/cucumber/cucumber-jvm-deps/1.0.6/cucumber-jvm-deps-1.0.6.jar:/Users/dinob/.m2/repository/net/masterthought/cucumber-reporting/4.7.0/cucumber-reporting-4.7.0.jar:/Users/dinob/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar:/Users/dinob/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar:/Users/dinob/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar:/Users/dinob/.m2/repository/org/apache/velocity/velocity/1.7/velocity-1.7.jar:/Users/dinob/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar:/Users/dinob/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar:/Users/dinob/.m2/repository/velocity-tools/velocity-tools/1.4/velocity-tools-1.4.jar:/Users/dinob/.m2/repository/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar:/Users/dinob/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/dinob/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.jar:/Users/dinob/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:/Users/dinob/.m2/repository/com/googlecode/owasp-java-html-sanitizer/owasp-java-html-sanitizer/20190325.1/owasp-java-html-sanitizer-20190325.1.jar:/Users/dinob/.m2/repository/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar:/Users/dinob/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/dinob/.m2/repository/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar:/Users/dinob/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/dinob/.m2/repository/io/cucumber/gherkin/5.1.0/gherkin-5.1.0.jar:/Users/dinob/.m2/repository/io/cucumber/gherkin-jvm-deps/1.0.4/gherkin-jvm-deps-1.0.4.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/dinob/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/dinob/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/dinob/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/dinob/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/dinob/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/dinob/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/dinob/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/dinob/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/dinob/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/dinob/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/dinob/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/dinob/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home/lib/tools.jar:/Users/dinob/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/dinob/Desktop/java-learning/selenium-cucumber-eclipse/nopCommerce_Cucumber/target/surefire/surefirebooter10478287315572318603.jar"/>
+    <property name="surefire.real.class.path" value="/Users/dinob/Desktop/java-learning/selenium-cucumber-eclipse/nopCommerce_Cucumber/target/surefire/surefirebooter18168469377066190789.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="11.0.8+10-LTS"/>
@@ -61,5 +61,47 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="Search Customer by Name" classname="Customers" time="17.728"/>
+  <testcase name="Add a new customer" classname="Customers" time="20.912"/>
+  <testcase name="Search customer by email" classname="Customers" time="17.604"/>
+  <testcase name="Successful login" classname="Login" time="17.671"/>
+  <testcase name="Login - Data Driven" classname="Login" time="16.667"/>
+  <testcase name="Login - Data Driven" classname="Login" time="5.257">
+    <failure type="java.lang.AssertionError">java.lang.AssertionError
+</failure>
+    <system-out><![CDATA[
+  @regression
+  Scenario Outline: Login - Data Driven                                     # Features/Login.feature:29
+    Given User launches browser                                             # Steps.user_launches_browser()
+ INFO [main] (Steps.java:74)- **** Opening URL ****
+2021-02-21 19:03:21,820 [main] INFO nopcommerce - **** Opening URL ****
+    When User opens Url "https://admin-demo.nopcommerce.com/login"          # Steps.user_opens_Url(String)
+ INFO [main] (Steps.java:81)- **** Setting user email and password ****
+2021-02-21 19:03:22,334 [main] INFO nopcommerce - **** Setting user email and password ****
+    And User enters email as "admin1@yourstore.com" and password "admin123" # Steps.user_enters_email_as_and_password(String,String)
+ INFO [main] (Steps.java:95)- **** User clicks Login button ****
+2021-02-21 19:03:22,556 [main] INFO nopcommerce - **** User clicks Login button ****
+    And User clicks on Login button                                         # Steps.user_clicks_on_Login_button()
+ INFO [main] (Steps.java:104)- **** Loging failed ****
+2021-02-21 19:03:26,113 [main] INFO nopcommerce - **** Loging failed ****
+    Then Page title should be "Dashboard / nopCommerce administration"      # Steps.page_title_should_be(String)
+      java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at stepDefinitions.Steps.page_title_should_be(Steps.java:105)
+	at ✽.Page title should be "Dashboard / nopCommerce administration"(file:Features/Login.feature:21)
+
+    When User clicks on log out link                                        # Steps.user_clicks_on_log_out_link()
+    Then Page title should be "Your store. Login"                           # Steps.page_title_should_be(String)
+    And close browser                                                       # Steps.close_browser()
+]]></system-out>
+    <system-err><![CDATA[log4j:WARN No such property [file] in org.apache.log4j.ConsoleAppender.
+Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 3379
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Feb. 21, 2021 7:03:21 P.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
 </testsuite>
